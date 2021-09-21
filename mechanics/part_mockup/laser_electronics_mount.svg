@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="77.72399999999999mm" height="39.623999999999995mm" viewBox="0 0 77.72399999999999 39.623999999999995" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Shape2DView" transform="translate(38.862000,19.812000) scale(1,-1)">
+<path id="Shape2DView_nwe0000"  d="M -36.099999999999994 19.049999999999997 L 36.099999999999994 19.049999999999997 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0001"  d="M -36.099999999999994 19.049999999999997 A 2 2 0 0 1 -38.1 17.05" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0002"  d="M 36.099999999999994 19.049999999999997 A 2 2 0 0 0 38.1 17.05" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0003"  d="M -38.099999999999994 -17.049999999999997 L -38.099999999999994 17.049999999999997 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0004"  d="M 38.099999999999994 17.049999999999997 L 38.099999999999994 -17.049999999999997 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0005"  d="M -38.099999999999994 -17.049999999999997 A 2 2 0 0 1 -36.1 -19.05" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0006"  d="M 38.099999999999994 -17.049999999999997 A 2 2 0 0 0 36.1 -19.05" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0007"  d="M 36.099999999999994 -19.049999999999997 L -36.099999999999994 -19.049999999999997 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<circle cx="30.000000000043705" cy="-10.0" r="2.667" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-29.999999999956295" cy="-10.0" r="2.667" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="25.400000000043708" cy="10.0" r="3.302" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-25.399999999956293" cy="10.0" r="3.302" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Shape2DView'</title>
+</g>
+</svg>
